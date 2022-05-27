@@ -22,7 +22,7 @@ Tab2:Line()
 
 -----/
 -- Tab #3
-local Tab3 = win:Tab("Page #1")
+local Tab3 = win:Tab("Page #2")
 local label = Tab3:Label("Label", properties)
 label:NewLabel("|| Machines ||", properties)
 Tab3:Line()
